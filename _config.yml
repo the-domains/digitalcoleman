@@ -1,0 +1,23 @@
+name: digitalcoleman
+favicon: null
+layout_spectrum: 0.5600114250555634
+typography_spectrum: 0.4442237550392747
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5382371929008514
+  lightness: 0.9502662632148713
+  saturation: 0.1555280163884163
+  rhythmicContrast: 0.06182728777639568
+purpose: []
